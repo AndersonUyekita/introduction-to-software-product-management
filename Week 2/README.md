@@ -12,27 +12,36 @@
     Management</a>
     -   🧑‍🏫 Instructor: Kenny Wong
 -   📆 Week 2
-    -   🚦 Start: Wednesday, 29 June 2022
+    -   🚦 Start: Thursday, 30 June 2022
     -   🏁 Finish: Thursday, 30 June 2022
 
 ------------------------------------------------------------------------
 
 #### Assignments & Deliverables
 
--   [🚀 Course Project 2
-    Repository](https://github.com/AndersonUyekita/introduction-to-software-product-management_course-project-2)
 -   [📝 Quiz 2](./quiz-2_introduction-to-software-product-management.md)
 
-#### Slides
+#### Module 2 Lessons
 
--   Module 5 – Variability
--   Module 6 – Distributions
--   Module 7 – Asymptotics
+-   Lesson 1: Project Success, Why Agile?
+-   Lesson 2: Agile Manifesto
+-   Lesson 3: Why Process?
+-   Lesson 4: Why Requirements?
+-   Lesson 5: Why Planning?
+-   Lesson 6: Why Monitoring?
 
 #### Description
 
-We’re going to tackle variability, distributions, limits, and confidence
-intervals.
+> Welcome to the second half of Introduction to Software Product
+> Management. In this module you will learn the philosophy, core values,
+> and principles of Agile software development. The Agile philosophy has
+> reshaped modern software development. Challenge yourself by thinking
+> about how you would deliver a successful software product within the
+> “triangle” of (a) meeting client needs, (b) delivering on schedule,
+> and (c) staying within budget. This module will also preview software
+> product management in four foundational areas: establishing a process,
+> defining requirements, planning the work, and monitoring development.
+> You’ll see the important role they play in producing better software.
 
 ------------------------------------------------------------------------
 

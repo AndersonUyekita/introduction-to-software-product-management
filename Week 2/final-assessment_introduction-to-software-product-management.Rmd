@@ -1,8 +1,15 @@
 ---
-title: '`Week 2` Introduction to Software Product Management'
+title: '`Final Assessment` Introduction to Software Product Management'
 author: '`r if(knitr::is_html_output()) {"&#x1f468;&#x1F3FB;&#x200d;&#x1f4bb; Anderson H Uyekita"} else {NULL}`'
 output:
   github_document: default
+  html_document:
+    self_contained: yes
+    toc: true
+    toc_depth: 4
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
 params:
   author: 'Anderson H Uyekita'
   course: 'Introduction to Software Product Management'
@@ -10,9 +17,10 @@ params:
   specialization: 'Software Product Management Specialization'
   specialization_url: 'https://www.coursera.org/specializations/product-management'
   instructor: 'Kenny Wong'
-  course_start: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
+  course_start: !r lubridate::ymd('2022/06/29')
   course_finish: !r lubridate::today(tzone = "America/Sao_Paulo")
   week: ' Week 2'
+always_allow_html: true
 ---
 
 ```{r setup,include=FALSE}
@@ -28,27 +36,12 @@ library(lubridate)
 `r sprintf(fmt = "* &#x1F4C6; %s", params$week)`
     `r sprintf(fmt = "* &#x1F6A6; Start: %s", format(params$course_start, "%A, %d %B %Y"))`
     `r sprintf(fmt = "* &#x1F3C1; Finish: %s", format(params$course_finish, "%A, %d %B %Y"))`
+`r if(!knitr::is_html_output()) {"* &#x1F30E; Rpubs: [Interactive Document](https://rpubs.com/AndersonUyekita/quiz-2_introduction-to-software-product-management)"}else{"* &#x1F4E6; Github Repository: [Static Document](https://github.com/AndersonUyekita/introduction-to-software-product-management/blob/main/Week%202/quiz-2_introduction-to-software-product-management.md){target='_blank' rel='noopener'}"}`
 
 --------------------------------------------------------------------------------
 
-#### Assignments & Deliverables
+## Question 1
 
-* [&#x1F4DD; Quiz 2](./quiz-2_introduction-to-software-product-management.md)
 
-#### Module 2 Lessons
 
-* Lesson 1: Project Success, Why Agile?
-* Lesson 2: Agile Manifesto
-* Lesson 3: Why Process?
-* Lesson 4: Why Requirements?
-* Lesson 5: Why Planning?
-* Lesson 6: Why Monitoring?
-
-#### Description
-
-> Welcome to the second half of Introduction to Software Product Management. In this module you will learn the philosophy, core values, and principles of Agile software development. The Agile philosophy has reshaped modern software development. Challenge yourself by thinking about how you would deliver a successful software product within the “triangle” of (a) meeting client needs, (b) delivering on schedule, and (c) staying within budget. This module will also preview software product management in four foundational areas: establishing a process, defining requirements, planning the work, and monitoring development. You’ll see the important role they play in producing better software.
-
---------------------------------------------------------------------------------
-
-## Class Notes
-
+**Answer**
