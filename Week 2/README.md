@@ -48,3 +48,6 @@
 ------------------------------------------------------------------------
 
 ## Class Notes
+
+\[Course
+Note\]\[<https://github.com/AndersonUyekita/introduction-to-software-product-management/blob/main/resources/c1-course-notes-introduction-to-software-product-management.pdf>\]
