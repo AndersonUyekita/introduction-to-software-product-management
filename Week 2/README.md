@@ -20,6 +20,8 @@
 #### Assignments & Deliverables
 
 -   [📝 Quiz 2](./quiz-2_introduction-to-software-product-management.md)
+-   [📝 Final
+    Assessment](./final-assessment_introduction-to-software-product-management.md)
 
 #### Module 2 Lessons
 

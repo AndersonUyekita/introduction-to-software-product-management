@@ -11,7 +11,7 @@ params:
   specialization_url: 'https://www.coursera.org/specializations/product-management'
   instructor: 'Kenny Wong'
   course_start: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
-  course_finish: !r lubridate::today(tzone = "America/Sao_Paulo")
+  course_finish: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
   week: ' Week 2'
 ---
 
@@ -34,6 +34,7 @@ library(lubridate)
 #### Assignments & Deliverables
 
 * [&#x1F4DD; Quiz 2](./quiz-2_introduction-to-software-product-management.md)
+* [&#x1F4DD; Final Assessment](./final-assessment_introduction-to-software-product-management.md)
 
 #### Module 2 Lessons
 
