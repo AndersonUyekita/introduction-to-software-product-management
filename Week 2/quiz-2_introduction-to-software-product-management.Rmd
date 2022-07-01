@@ -16,7 +16,7 @@ params:
   course_url: 'https://www.coursera.org/learn/introduction-to-software-product-management'
   specialization: 'Software Product Management Specialization'
   specialization_url: 'https://www.coursera.org/specializations/product-management'
-  instructor: 'Kenny Wong'
+  instructor: 'Bradley Poulette and Morgan Patzelt'
   course_start: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
   course_finish: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
   week: ' Week 2'

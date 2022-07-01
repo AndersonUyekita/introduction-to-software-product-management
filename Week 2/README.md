@@ -10,7 +10,7 @@
     href="https://www.coursera.org/learn/introduction-to-software-product-management"
     target="_blank" rel="noopener">Introduction to Software Product
     Management</a>
-    -   🧑‍🏫 Instructor: Kenny Wong
+    -   🧑‍🏫 Instructor: Bradley Poulette and Morgan Patzelt
 -   📆 Week 2
     -   🚦 Start: Thursday, 30 June 2022
     -   🏁 Finish: Thursday, 30 June 2022
