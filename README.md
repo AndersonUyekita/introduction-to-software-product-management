@@ -13,6 +13,8 @@ Introduction to Software Product Management
     -   🧑‍🏫 Instructor: Kenny Wong
     -   🚦 Start: Thursday, 30 June 2022
     -   🏁 Finish: Friday, 01 July 2022
+-   🎓
+    [Certificate](https://www.coursera.org/account/accomplishments/certificate/F7SS7CCLHKJM)
 
 ------------------------------------------------------------------------
 
