@@ -19,6 +19,9 @@
 
 ------------------------------------------------------------------------
 
+I have found the answers in the [Course
+Notes.](https://github.com/AndersonUyekita/introduction-to-software-product-management/blob/main/resources/c1-course-notes-introduction-to-software-product-management.pdf)
+
 ## Question 1
 
 What are examples of desirable characteristics that effective software
@@ -41,7 +44,7 @@ product management can help to achieve?
 
 Based on second viewpoint:
 
-> One viewpoint aims to provide the right software product for \*88**the
+> One viewpoint aims to provide the right software product for **the
 > clients. That is, it meets their needs**, solves their problem, and
 > they are happy with it.
 

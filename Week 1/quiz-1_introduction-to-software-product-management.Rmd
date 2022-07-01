@@ -2,6 +2,7 @@
 title: '`Quiz 1` Introduction to Software Product Management'
 author: '`r if(knitr::is_html_output()) {"&#x1f468;&#x1F3FB;&#x200d;&#x1f4bb; Anderson H Uyekita"} else {NULL}`'
 output:
+  github_document: default
   html_document:
     self_contained: yes
     toc: true
@@ -9,7 +10,6 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: true
-  github_document: default
 params:
   author: 'Anderson H Uyekita'
   course: 'Introduction to Software Product Management'
@@ -40,6 +40,8 @@ library(lubridate)
 
 --------------------------------------------------------------------------------
 
+I have found the answers in the [Course Notes.](https://github.com/AndersonUyekita/introduction-to-software-product-management/blob/main/resources/c1-course-notes-introduction-to-software-product-management.pdf)
+
 ## Question 1
 
 What are examples of desirable characteristics that effective software product management can help to achieve?
@@ -56,7 +58,7 @@ Based on first viewpoint:
 
 Based on second viewpoint:
 
-> One viewpoint aims to provide the right software product for *88**the clients. That is, it meets their needs**, solves their problem, and they are happy with it.
+> One viewpoint aims to provide the right software product for **the clients. That is, it meets their needs**, solves their problem, and they are happy with it.
 
 Based on third viewpoint:
 
