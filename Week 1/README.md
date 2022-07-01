@@ -21,7 +21,7 @@
 
 -   [📝 Quiz 1](./quiz-1_introduction-to-software-product-management.md)
 
-#### Slides
+#### Module 1 Lessons
 
 -   Lesson 1: Better Software
 -   Lesson 2: Why Software Product Management?
