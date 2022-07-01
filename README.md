@@ -27,7 +27,8 @@ Introduction to Software Product Management
 
 -   [📆 Week 1](./Week%201)
 -   [📆 Week 2](./Week%202)
--   [📑 Course Textbook Notes](./book)
+-   [📑 Course
+    Notes](https://github.com/AndersonUyekita/introduction-to-software-product-management/blob/main/resources/c1-course-notes-introduction-to-software-product-management.pdf)
 
 #### Course Description
 
@@ -39,13 +40,15 @@ Introduction to Software Product Management
 
 #### Course Syllabus
 
--   Lesson 1: Better Software
--   Lesson 2: Why Software Product Management?
--   Lesson 3: The Role of a Software Product Manager
--   Lesson 4: Specialization Overview
--   Lesson 5: Project Success, Why Agile?
--   Lesson 6: Agile Manifesto
--   Lesson 7: Why Process?
--   Lesson 8: Why Requirements?
--   Lesson 9: Why Planning?
--   Lesson 10: Why Monitoring?
+-   Module 1
+    -   Lesson 1: Better Software
+    -   Lesson 2: Why Software Product Management?
+    -   Lesson 3: The Role of a Software Product Manager
+    -   Lesson 4: Specialization Overview
+-   Module 2
+    -   Lesson 1: Project Success, Why Agile?
+    -   Lesson 2: Agile Manifesto
+    -   Lesson 3: Why Process?
+    -   Lesson 4: Why Requirements?
+    -   Lesson 5: Why Planning?
+    -   Lesson 6: Why Monitoring?

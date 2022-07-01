@@ -40,7 +40,7 @@ library(lubridate)
 
 * [&#x1F4C6; Week 1](./Week 1)
 * [&#x1F4C6; Week 2](./Week 2)
-* [&#x1F4D1; Course Textbook Notes](./book)
+* [&#x1F4D1; Course Notes](https://github.com/AndersonUyekita/introduction-to-software-product-management/blob/main/resources/c1-course-notes-introduction-to-software-product-management.pdf)
 
 #### Course Description
 
@@ -49,13 +49,15 @@ library(lubridate)
 
 #### Course Syllabus
 
-* Lesson 1: Better Software
-* Lesson 2: Why Software Product Management?
-* Lesson 3: The Role of a Software Product Manager
-* Lesson 4: Specialization Overview
-* Lesson 5: Project Success, Why Agile?
-* Lesson 6: Agile Manifesto
-* Lesson 7: Why Process?
-* Lesson 8: Why Requirements?
-* Lesson 9: Why Planning?
-* Lesson 10: Why Monitoring?
+* Module 1
+    * Lesson 1: Better Software
+    * Lesson 2: Why Software Product Management?
+    * Lesson 3: The Role of a Software Product Manager
+    * Lesson 4: Specialization Overview
+* Module 2
+    * Lesson 1: Project Success, Why Agile?
+    * Lesson 2: Agile Manifesto
+    * Lesson 3: Why Process?
+    * Lesson 4: Why Requirements?
+    * Lesson 5: Why Planning?
+    * Lesson 6: Why Monitoring?
