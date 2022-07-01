@@ -10,7 +10,7 @@ params:
   specialization: 'Software Product Management Specialization'
   specialization_url: 'https://www.coursera.org/specializations/product-management'
   instructor: 'Kenny Wong'
-  course_start: !r lubridate::ymd('2022/06/29')
+  course_start: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
   course_finish: !r lubridate::today(tzone = "America/Sao_Paulo")
   week: ' Week 1'
 ---
@@ -33,21 +33,22 @@ library(lubridate)
 
 #### Assignments & Deliverables
 
-* [&#x1F680; Course Project 1 Repository](https://github.com/AndersonUyekita/introduction-to-software-product-management_course-project-1)
 * [&#x1F4DD; Quiz 1](./quiz-1_introduction-to-software-product-management.md)
 
 #### Slides
 
-* Module 1 -- Introductory video
-* Module 2 -- Probability
-* Module 3 -- Conditional probability
-* Module 4 -- Expected values
+* Lesson 1: Better Software
+* Lesson 2: Why Software Product Management?
+* Lesson 3: The Role of a Software Product Manager
+* Lesson 4: Specialization Overview
 
 #### Description
 
-This week, we'll focus on the fundamentals including probability, random variables, expectations and more.
+> Are you ready to start? Our starting point will be the goal of software product management, and that is to build better software. We will delve into the role of the software product manager, where you will hear from software industry representatives. This module will also cover the path which you will take through this specialization, which offers to prepare you for taking on a software product manager role.
 
 --------------------------------------------------------------------------------
 
 ## Class Notes
+
+### Lesson 1: Better Software
 

@@ -12,28 +12,31 @@
     Management</a>
     -   🧑‍🏫 Instructor: Kenny Wong
 -   📆 Week 1
-    -   🚦 Start: Wednesday, 29 June 2022
+    -   🚦 Start: Thursday, 30 June 2022
     -   🏁 Finish: Thursday, 30 June 2022
 
 ------------------------------------------------------------------------
 
 #### Assignments & Deliverables
 
--   [🚀 Course Project 1
-    Repository](https://github.com/AndersonUyekita/introduction-to-software-product-management_course-project-1)
 -   [📝 Quiz 1](./quiz-1_introduction-to-software-product-management.md)
 
 #### Slides
 
--   Module 1 – Introductory video
--   Module 2 – Probability
--   Module 3 – Conditional probability
--   Module 4 – Expected values
+-   Lesson 1: Better Software
+-   Lesson 2: Why Software Product Management?
+-   Lesson 3: The Role of a Software Product Manager
+-   Lesson 4: Specialization Overview
 
 #### Description
 
-This week, we’ll focus on the fundamentals including probability, random
-variables, expectations and more.
+> Are you ready to start? Our starting point will be the goal of
+> software product management, and that is to build better software. We
+> will delve into the role of the software product manager, where you
+> will hear from software industry representatives. This module will
+> also cover the path which you will take through this specialization,
+> which offers to prepare you for taking on a software product manager
+> role.
 
 ------------------------------------------------------------------------
 
