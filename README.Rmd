@@ -35,6 +35,8 @@ library(lubridate)
 
 * [&#x1F4DD; Quiz 1](./Week 1/quiz-1_introduction-to-software-product-management.md)
 * [&#x1F4DD; Quiz 2](./Week 2/quiz-2_introduction-to-software-product-management.md)
+* [&#x1F4DD; Final Assessment](./Week 2/final-assessment_introduction-to-software-product-management.md)
+
 
 #### Class Notes
 

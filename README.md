@@ -12,7 +12,7 @@ Introduction to Software Product Management
     Management</a>
     -   🧑‍🏫 Instructor: Kenny Wong
     -   🚦 Start: Thursday, 30 June 2022
-    -   🏁 Finish: Thursday, 30 June 2022
+    -   🏁 Finish: Friday, 01 July 2022
 
 ------------------------------------------------------------------------
 
@@ -22,6 +22,8 @@ Introduction to Software Product Management
     1](./Week%201/quiz-1_introduction-to-software-product-management.md)
 -   [📝 Quiz
     2](./Week%202/quiz-2_introduction-to-software-product-management.md)
+-   [📝 Final
+    Assessment](./Week%202/final-assessment_introduction-to-software-product-management.md)
 
 #### Class Notes
 
