@@ -15,7 +15,7 @@
     -   🚦 Start: Thursday, 30 June 2022
     -   🏁 Finish: Thursday, 30 June 2022
 -   🌎 Rpubs: [Interactive
-    Document](https://rpubs.com/AndersonUyekita/quiz-2_introduction-to-software-product-management)
+    Document](https://rpubs.com/AndersonUyekita/final-assessment_introduction-to-software-product-management)
 
 ------------------------------------------------------------------------
 
