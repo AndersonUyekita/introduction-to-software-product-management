@@ -9,7 +9,7 @@ params:
   course_url: 'https://www.coursera.org/learn/introduction-to-software-product-management'
   specialization: 'Software Product Management Specialization'
   specialization_url: 'https://www.coursera.org/specializations/product-management'
-  instructor: 'Kenny Wong'
+  instructor: 'Kenny Wong, Bradley Poulette, and Morgan Patzelt'
   course_start: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
   course_finish: !r lubridate::ymd('2022/07/01', tz = "America/Sao_Paulo")
   certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/F7SS7CCLHKJM'
@@ -35,7 +35,7 @@ library(lubridate)
 
 * [&#x1F4DD; Quiz 1](./Week 1/quiz-1_introduction-to-software-product-management.md)
 * [&#x1F4DD; Quiz 2](./Week 2/quiz-2_introduction-to-software-product-management.md)
-* [&#x1F4DD; Final Assessment](./Week 2/final-assessment_introduction-to-software-product-management.md)
+* [&#x1F680; Final Assessment](./Week 2/final-assessment_introduction-to-software-product-management.md)
 
 
 #### Class Notes
