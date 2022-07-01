@@ -11,7 +11,7 @@ Introduction to Software Product Management
     target="_blank" rel="noopener">Introduction to Software Product
     Management</a>
     -   🧑‍🏫 Instructor: Kenny Wong
-    -   🚦 Start: Wednesday, 29 June 2022
+    -   🚦 Start: Thursday, 30 June 2022
     -   🏁 Finish: Thursday, 30 June 2022
 
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ Introduction to Software Product Management
 
 #### Course Description
 
-This course highlights the importance and role of software product
-management. It also provides an overview of the specialization, as well
-as its goals, structure, and expectations. The course explains the value
-of process, requirements, planning, and monitoring in producing better
-software.
+> This course highlights the importance and role of software product
+> management. It also provides an overview of the specialization, as
+> well as its goals, structure, and expectations. The course explains
+> the value of process, requirements, planning, and monitoring in
+> producing better software.
 
 #### Course Syllabus
 
@@ -49,10 +49,3 @@ software.
 -   Lesson 8: Why Requirements?
 -   Lesson 9: Why Planning?
 -   Lesson 10: Why Monitoring?
-
-#### Course Textbook
-
-The book [📔 NA](./book/na.pdf) covers the lecture material in this
-course.
-
-#### Course Projects

@@ -10,7 +10,7 @@ params:
   specialization: 'Software Product Management Specialization'
   specialization_url: 'https://www.coursera.org/specializations/product-management'
   instructor: 'Kenny Wong'
-  course_start: !r lubridate::ymd('2022/06/29')
+  course_start: !r lubridate::ymd('2022/06/30', tz = "America/Sao_Paulo")
   course_finish: !r lubridate::today(tzone = "America/Sao_Paulo")
   certificate_url: './'
 ---
@@ -44,7 +44,7 @@ library(lubridate)
 
 #### Course Description
 
-This course highlights the importance and role of software product management. It also provides an overview of the specialization, as well as its goals, structure, and expectations. The course explains the value of process, requirements, planning, and monitoring in producing better software.
+> This course highlights the importance and role of software product management. It also provides an overview of the specialization, as well as its goals, structure, and expectations. The course explains the value of process, requirements, planning, and monitoring in producing better software.
 
 
 #### Course Syllabus
@@ -59,13 +59,3 @@ This course highlights the importance and role of software product management. I
 * Lesson 8: Why Requirements?
 * Lesson 9: Why Planning?
 * Lesson 10: Why Monitoring?
-
-#### Course Textbook
-
-The book [&#x1F4D4; NA](./book/na.pdf) covers the lecture material in this course.
-
-#### Course Projects
-
-
-
-
